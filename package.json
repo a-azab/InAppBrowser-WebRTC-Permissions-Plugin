@@ -1,0 +1,25 @@
+{
+  "name": "inappbrowser-webrtc-permissions-plugin",
+  "version": "0.0.2",
+  "description": "Adding permissions for Application for InAppBrowser",
+  "cordova": {
+    "id": "cordova-plugin-inappbrowser-webrtc-permissions",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-azab/InAppBrowser-WebRTC-Permissions-Plugin.git"
+  },
+  "author": "Ahmed Azab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a-azab/InAppBrowser-WebRTC-Permissions-Plugin/issues"
+  },
+  "homepage": "https://github.com/a-azab/InAppBrowser-WebRTC-Permissions-Plugin#readme"
+}
